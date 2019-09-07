@@ -1,3 +1,3 @@
 # gitskills
 opt clone
-add windows
+add master
